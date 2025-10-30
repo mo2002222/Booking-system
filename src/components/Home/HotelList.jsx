@@ -6,7 +6,7 @@ return (
         <h3 className='mb-5 font-bold'>Popular Destinations</h3>
         <div className="grid grid-cols-3 gap-3">
             <div className="relative">
-                <img className='rounded h-full'  src="https://media.cntraveller.com/photos/611bf0fb7048754865719e3a/16:9/w_1920,h_1080,c_limit/view-of-the-liffey-from-liberty-hall-dublin-ireland-conde-nast-traveller-4feb16-Tara-Morgan.jpg" alt="dublin" />
+                <img className='rounded h-full object-none'  src="https://media.cntraveller.com/photos/611bf0fb7048754865719e3a/16:9/w_1920,h_1080,c_limit/view-of-the-liffey-from-liberty-hall-dublin-ireland-conde-nast-traveller-4feb16-Tara-Morgan.jpg" alt="dublin" />
                 <div className="absolute bottom-3 left-2 text-white">
                     <h3 className='font-bold'>Dublin</h3>
                     <h5>124 properties</h5>
